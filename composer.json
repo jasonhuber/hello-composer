@@ -6,6 +6,7 @@
             "Jasonhuber\\HelloWorld\\": "src/"
         }
     },
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Jason Huber",
