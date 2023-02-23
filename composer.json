@@ -1,0 +1,16 @@
+{
+    "name": "jasonhuber/hello-composer",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Jasonhuber\\HelloWorld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jason Huber",
+            "email": "jasonhuber@gmail.com"
+        }
+    ],
+    "require": {}
+}
